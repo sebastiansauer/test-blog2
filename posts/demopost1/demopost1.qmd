@@ -1,14 +1,16 @@
 ---
 title: "Demo Post1"
-author: "Harlow Malloc"
+author: "Sebastian Sauer"
 date: "2023-01-09"
 categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+Quarto rocks
+
+
 
 ```{r}
-1 + 1
+exp(1)
 ```
 

@@ -1,5 +1,5 @@
 ---
-title: "DEMO Post"
+title: "Post with R Code"
 author: "Harlow Malloc"
 date: "2023-01-09"
 categories: [news, code, analysis]
