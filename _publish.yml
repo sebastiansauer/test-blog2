@@ -1,4 +1,4 @@
 - source: project
   netlify:
     - id: 2cfc8ff2-e5eb-4f58-9001-489820c21d59
-      url: 'https://sunny-druid-5f3328.netlify.app'
+      url: "https://testt-blog2.netlify.app/"
